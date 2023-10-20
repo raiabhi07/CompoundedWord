@@ -2,9 +2,11 @@
 ReadMe
 
 A Quick Look
+
 Hey there! This C++ program is designed to find the longest and second-longest "compounded" words from a list of words. Now, you might be wondering what a "compounded" word is. Well, it's simply a word that's made up of two or more words from the list.
 			
 How It Works
+
 The program is pretty straightforward and efficient. It uses an unordered set (think of it as a super-fast dictionary) to store the words for quick lookup. Then, it uses a recursive function (a function that calls itself) to check if a word can be formed by combining other words in the list. The program goes through each word in the list, checks if it's compounded, and keeps track of the longest and second-longest compounded words it finds.
 
 How to Run It
